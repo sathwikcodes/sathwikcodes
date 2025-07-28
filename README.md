@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **bnvsathwik75@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sathwikcodes/Resume](https://github.com/sathwikcodes/Resume)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
