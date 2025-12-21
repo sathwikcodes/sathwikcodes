@@ -1,38 +1,32 @@
-<h1 align="center">Hi, I'm Sathwik Batta 👋</h1>
+<h1 align="center">Sathwik Batta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=AI+Engineer+%7C+Blockchain+Developer+%7C+Full+Stack+Innovator;Building+Intelligent+and+Scalable+Tech+Solutions" alt="Typing SVG" />
+  <em>
+    Software Engineer (AI/Backend) at Predli · 
+    Backend, LLM Systems & Scalable Infrastructure
+  </em>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About
+Software Engineer (AI/Backend) at Predli, building production LLM-powered, cloud-native microservices for leading Swedish enterprises, serving **10,000+ daily API requests**. I work across backend systems, AI integration, and scalable infrastructure with a focus on reliability and performance.
 
-- Software Engineer (AI SDE-1 at Predli), focused on **AI/ML, Generative AI, and Blockchain** innovations.
-- Passionate about architecting robust, scalable systems that push the boundaries of what tech can achieve in the real world.
-- Thrive on solving complex problems and collaborating with global tech communities.
-
----
-
-## 🏆 Achievements
-
-- **Winner**, Smart India Hackathon 2024 (₹1,00,000): Developed security features for Android apps in India's largest hackathon.
-- **500+ DSA Problems Solved**: High proficiency in problem-solving on LeetCode and GFG.
-- **Top 10 Competitive Programmer** at SRM University, AP.
-- **Ethereum Global Funding**: Awarded $5,000 for building Web3Verse (Web3/Blockchain product).
-- **1st Place, National and International Hackathons**: Built Cosmiq—an AI-powered Web3 platform, and won at ETHGlobal Cannes.
-- **Prestigious NCIIPC Internship**: Developed security libraries for India's critical infrastructure protection.
+Graduated with a **B.Tech in Computer Science (AI-ML)** from **SRM University** in **2025** (CGPA **8.6**). I enjoy turning ideas into shipped products and solving challenging engineering problems.
 
 ---
 
-## 📫 Contact & Links
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sathwik-batta-637a7b214/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/sathwikcodes/)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bnvsathwik75@gmail.com)
+## 🏆 Highlights
+- **Winner — ETHGlobal Cannes 2025** ($4,500): Built *Cosmiq*, an AI-powered dApp generator (TypeScript, Flow, Vercel AI).
+- **Winner — Smart India Hackathon 2024** (₹100,000): Led Android security modules detecting **95% of OWASP risks**.
+- **Ethereum Global Grant** ($5,000): Built *Web3Verse* (Flow, IPFS, Cadence).
+- **500+ algorithmic problems solved** on LeetCode & GFG; Top-10 competitive programmer at SRM University (2022–2024).
+- **NCIIPC Internship**: Contributed cryptographic and security libraries for national cybersecurity initiatives.
 
 ---
 
-## 💬 Quote of the Day
-> "The best way to predict the future is to invent it." — Alan Kay
-
+## 📫 Connect
+[Portfolio](https://sathwikbatta.com) ·
+[LinkedIn](https://www.linkedin.com/in/sathwik-batta) ·
+[LeetCode](https://leetcode.com/u/sathwikcodes/) ·
+[Email](mailto:bnvsathwik75@gmail.com)
