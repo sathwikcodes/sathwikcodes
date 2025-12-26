@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About
-Software Engineer (AI/Backend) at Predli, building production LLM-powered, cloud-native microservices for leading Swedish enterprises, serving **10,000+ daily API requests**. I work across backend systems, AI integration, and scalable infrastructure with a focus on reliability and performance.
+Software Engineer at Predli, building production LLM-powered, cloud-native microservices for leading Swedish enterprises, serving **10,000+ daily API requests**. I work across backend systems, AI integration, and scalable infrastructure with a focus on reliability and performance.
 
 Graduated with a **B.Tech in Computer Science (AI-ML)** from **SRM University** in **2025** (CGPA **8.6**). I enjoy turning ideas into shipped products and solving challenging engineering problems.
 
