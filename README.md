@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Software Engineer (AI/Backend) at Predli · 
+    Software Engineer at Predli · 
     Backend, LLM Systems & Scalable Infrastructure
   </em>
 </p>
