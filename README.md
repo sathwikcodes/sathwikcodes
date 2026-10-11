@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Software Engineer at Predli · 
+    Founding AI Engineer · 
     Backend, LLM Systems & Scalable Infrastructure
   </em>
 </p>
@@ -10,9 +10,7 @@
 ---
 
 ## 🚀 About
-Software Engineer at Predli, building production LLM-powered, cloud-native microservices for leading Swedish enterprises, serving **10,000+ daily API requests**. I work across backend systems, AI integration, and scalable infrastructure with a focus on reliability and performance.
-
-Graduated with a **B.Tech in Computer Science (AI-ML)** from **SRM University** in **2025** (CGPA **8.6**). I enjoy turning ideas into shipped products and solving challenging engineering problems.
+Founding AI Engineer building production LLM-powered, cloud-native microservices for leading enterprises, serving 10,000+ daily API requests. Focused on backend systems, multi-agent systems, and scalable infrastructure. Graduated with a B.Tech in Computer Science (AI-ML) from SRM University (CGPA 8.6). Winner of ETHGlobal Cannes and Smart India Hackathon; selected as one of best AI builders in India among 25,000+ applicants by Y Combinator.
 
 ---
 
