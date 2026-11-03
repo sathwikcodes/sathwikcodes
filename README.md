@@ -4,8 +4,6 @@
   <em>Founding AI Engineer at Applied Retention</em>
 </p>
 
----
-
 ## About
 
 Building AI-native customer intelligence from the ground up at [Applied Retention](https://www.appliedretention.com/), in a market with established players such as MoEngage ([reported $900M+ valuation](https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/)) and CleverTap. Across my work, I've shipped LLM-powered microservices serving **1M+ daily API requests**, engineered **5k+ node multi-agentic workflows**, and reduced deployment time by **40%**. My focus is backend engineering, AI systems, and scalable infrastructure. B.Tech in Computer Science (AI/ML) from SRM University–AP, **CGPA 8.6**.
@@ -22,36 +20,24 @@ Building AI-native customer intelligence from the ground up at [Applied Retentio
 - **500+ algorithmic problems solved; Top 10** in SRM University coding contests (2022–2024).
 - **NCIIPC internship:** Contributed cryptographic and security libraries to national cybersecurity initiatives.
 
----
 
 ## Connect
 
 <p align="center">
-  <a href="https://sathwikbatta.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/connect/portfolio-dark.svg">
-      <img src="assets/connect/portfolio-light.svg" width="160" height="56" alt="Portfolio">
-    </picture>
+<a href="https://sathwikbatta.com" title="Portfolio">
+  <img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8" width="56" height="56" alt="Portfolio">
+</a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/sathwik-batta/" title="LinkedIn">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="56" height="56" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sathwik-batta/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/connect/linkedin-dark.svg">
-      <img src="assets/connect/linkedin-light.svg" width="160" height="56" alt="LinkedIn">
-    </picture>
+  &emsp;
+  <a href="https://leetcode.com/u/sathwikcodes/" title="LeetCode">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="56" height="56" alt="LeetCode">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/sathwikcodes/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/connect/leetcode-dark.svg">
-      <img src="assets/connect/leetcode-light.svg" width="160" height="56" alt="LeetCode">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bnvsathwik75@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/connect/email-dark.svg">
-      <img src="assets/connect/email-light.svg" width="160" height="56" alt="Email">
-    </picture>
+  &emsp;
+  <a href="mailto:bnvsathwik75@gmail.com" title="Email">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="56" height="56" alt="Email">
   </a>
 </p>
+
