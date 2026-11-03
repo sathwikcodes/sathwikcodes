@@ -6,7 +6,7 @@
 
 ## About
 
-Building AI-native customer intelligence from the ground up at [Applied Retention](https://www.appliedretention.com/), in a market with established players such as MoEngage ([reported $900M+ valuation](https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/)) and CleverTap. Across my work, I've shipped LLM-powered microservices serving **1M+ daily API requests**, engineered **5k+ node multi-agentic workflows**, and reduced deployment time by **40%**. My focus is backend engineering, AI systems, and scalable infrastructure. B.Tech in Computer Science (AI/ML) from SRM University–AP, **CGPA 8.6**.
+Building AI-native customer intelligence from the ground up at [Applied Retention](https://www.appliedretention.com/), in a market with established players such as MoEngage ([$900M+ valuation](https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/)) and CleverTap. Across my work, I've shipped LLM-powered microservices serving **1M+ daily API requests**, engineered **5k+ node multi-agentic workflows**, and reduced deployment time by **40%**. My focus is backend engineering, AI systems, and scalable infrastructure. B.Tech in Computer Science (AI/ML) from SRM University–AP, **CGPA 8.6**.
 
 ---
 
